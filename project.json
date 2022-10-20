@@ -1,0 +1,33 @@
+{
+  "root": "libs/qson/tools",
+  "sourceRoot": "libs/qson/tools/src",
+  "projectType": "library",
+  "targets": {
+    "build": {
+      "executor": "@nrwl/js:tsc",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/libs/qson/tools",
+        "main": "libs/qson/tools/src/index.js",
+        "tsConfig": "libs/qson/tools/tsconfig.lib.json",
+        "assets": ["libs/qson/tools/*.md"]
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["libs/qson/tools/**/*.js"]
+      }
+    },
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/libs/qson/tools"],
+      "options": {
+        "jestConfig": "libs/qson/tools/jest.config.js",
+        "passWithNoTests": true
+      }
+    }
+  },
+  "tags": []
+}
