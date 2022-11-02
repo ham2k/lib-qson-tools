@@ -1,5 +1,5 @@
 {
-  "root": "libs/qson/tools",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
   "sourceRoot": "libs/qson/tools/src",
   "projectType": "library",
   "targets": {
@@ -22,9 +22,9 @@
     },
     "test": {
       "executor": "@nrwl/jest:jest",
-      "outputs": ["coverage/libs/qson/tools"],
+      "outputs": ["{workspaceRoot}/coverage/libs/qson/tools"],
       "options": {
-        "jestConfig": "libs/qson/tools/jest.config.js",
+        "jestConfig": "libs/qson/tools/jest.config.ts",
         "passWithNoTests": true
       }
     }
