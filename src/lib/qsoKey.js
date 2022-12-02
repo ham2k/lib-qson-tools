@@ -8,7 +8,7 @@ function qsoKey(qso) {
     their: { call: theirCall },
   } = qso
 
-  return [theirCall, end || start, band, mode, ourCall].join("|")
+  return [theirCall, end ?? start, band, mode, ourCall].join("|")
 }
 
 module.exports = {
