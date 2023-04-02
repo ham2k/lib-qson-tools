@@ -1,5 +1,5 @@
-const qsoKey = require("./lib/qsoKey")
+const qsoKey = require('./lib/qsoKey')
 
 module.exports = {
-  ...qsoKey,
+  ...qsoKey
 }
