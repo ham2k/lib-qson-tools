@@ -37,18 +37,10 @@
       "freq": 10137.8,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T11:43:00Z",
-      "startMillis": 1621597380000,
-      "end": "2021-05-21T11:44:00Z",
-      "endMillis": 1621597440000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635178456", "received": "2021-06-19T23:59:59Z" },
-          { "via": "lotw", "received": "2021-06-19T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-06-19T23:59:59Z",
-        "receivedMillis": 1624147199000
-      },
+      "startOn": "2021-05-21T11:43:00Z",
+      "startOnMillis": 1621597380000,
+      "endOn": "2021-05-21T11:44:00Z",
+      "endOnMillis": 1621597440000,
       "number": 956,
       "line": 956
     },
@@ -90,18 +82,10 @@
       "freq": 10137.8,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T11:45:00Z",
-      "startMillis": 1621597500000,
-      "end": "2021-05-21T11:46:00Z",
-      "endMillis": 1621597560000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635178768", "received": "2021-05-22T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-21T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-21T23:59:59Z",
-        "receivedMillis": 1621641599000
-      },
+      "startOn": "2021-05-21T11:45:00Z",
+      "startOnMillis": 1621597500000,
+      "endOn": "2021-05-21T11:46:00Z",
+      "endOnMillis": 1621597560000,
       "number": 957,
       "line": 957
     },
@@ -143,18 +127,10 @@
       "freq": 10137.8,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T12:10:00Z",
-      "startMillis": 1621599000000,
-      "end": "2021-05-21T12:11:00Z",
-      "endMillis": 1621599060000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635183647", "received": "2021-05-24T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-24T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-24T23:59:59Z",
-        "receivedMillis": 1621900799000
-      },
+      "startOn": "2021-05-21T12:10:00Z",
+      "startOnMillis": 1621599000000,
+      "endOn": "2021-05-21T12:11:00Z",
+      "endOnMillis": 1621599060000,
       "number": 958,
       "line": 958
     },
@@ -196,18 +172,10 @@
       "freq": 10137.8,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T12:12:00Z",
-      "startMillis": 1621599120000,
-      "end": "2021-05-21T12:13:00Z",
-      "endMillis": 1621599180000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635183757", "received": "2021-05-21T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-21T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-21T23:59:59Z",
-        "receivedMillis": 1621641599000
-      },
+      "startOn": "2021-05-21T12:12:00Z",
+      "startOnMillis": 1621599120000,
+      "endOn": "2021-05-21T12:13:00Z",
+      "endOnMillis": 1621599180000,
       "number": 959,
       "line": 959
     },
@@ -249,18 +217,10 @@
       "freq": 10137.8,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T12:20:00Z",
-      "startMillis": 1621599600000,
-      "end": "2021-05-21T12:21:00Z",
-      "endMillis": 1621599660000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635184118", "received": "2021-05-21T23:59:59Z" },
-          { "via": "lotw", "received": "2021-07-11T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-21T23:59:59Z",
-        "receivedMillis": 1621641599000
-      },
+      "startOn": "2021-05-21T12:20:00Z",
+      "startOnMillis": 1621599600000,
+      "endOn": "2021-05-21T12:21:00Z",
+      "endOnMillis": 1621599660000,
       "number": 960,
       "line": 960
     },
@@ -300,18 +260,10 @@
       "freq": 10137.8,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T13:01:00Z",
-      "startMillis": 1621602060000,
-      "end": "2021-05-21T13:02:00Z",
-      "endMillis": 1621602120000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635188341", "received": "2021-09-15T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-24T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-24T23:59:59Z",
-        "receivedMillis": 1621900799000
-      },
+      "startOn": "2021-05-21T13:01:00Z",
+      "startOnMillis": 1621602060000,
+      "endOn": "2021-05-21T13:02:00Z",
+      "endOnMillis": 1621602120000,
       "number": 961,
       "line": 961
     },
@@ -351,10 +303,10 @@
       "freq": 10137.8,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T13:03:00Z",
-      "startMillis": 1621602180000,
-      "end": "2021-05-21T13:04:00Z",
-      "endMillis": 1621602240000,
+      "startOn": "2021-05-21T13:03:00Z",
+      "startOnMillis": 1621602180000,
+      "endOn": "2021-05-21T13:04:00Z",
+      "endOnMillis": 1621602240000,
       "number": 962,
       "line": 962
     },
@@ -396,18 +348,10 @@
       "freq": 10137.8,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T13:35:00Z",
-      "startMillis": 1621604100000,
-      "end": "2021-05-21T13:36:00Z",
-      "endMillis": 1621604160000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635207434", "received": "2021-05-21T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-21T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-21T23:59:59Z",
-        "receivedMillis": 1621641599000
-      },
+      "startOn": "2021-05-21T13:35:00Z",
+      "startOnMillis": 1621604100000,
+      "endOn": "2021-05-21T13:36:00Z",
+      "endOnMillis": 1621604160000,
       "number": 963,
       "line": 963
     },
@@ -449,18 +393,10 @@
       "freq": 10137.8,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T13:52:00Z",
-      "startMillis": 1621605120000,
-      "end": "2021-05-21T13:53:00Z",
-      "endMillis": 1621605180000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635209117", "received": "2021-05-21T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-21T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-21T23:59:59Z",
-        "receivedMillis": 1621641599000
-      },
+      "startOn": "2021-05-21T13:52:00Z",
+      "startOnMillis": 1621605120000,
+      "endOn": "2021-05-21T13:53:00Z",
+      "endOnMillis": 1621605180000,
       "number": 964,
       "line": 964
     },
@@ -502,18 +438,10 @@
       "freq": 10137.8,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T14:09:00Z",
-      "startMillis": 1621606140000,
-      "end": "2021-05-21T14:09:00Z",
-      "endMillis": 1621606140000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635211706", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-21T14:09:00Z",
+      "startOnMillis": 1621606140000,
+      "endOn": "2021-05-21T14:09:00Z",
+      "endOnMillis": 1621606140000,
       "number": 965,
       "line": 965
     },
@@ -552,15 +480,10 @@
       "freq": 10137.8,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T14:13:00Z",
-      "startMillis": 1621606380000,
-      "end": "2021-05-21T14:13:00Z",
-      "endMillis": 1621606380000,
-      "qsl": {
-        "sources": [{ "via": "qrz", "id": "635212229", "received": "2021-05-21T23:59:59Z" }],
-        "received": "2021-05-21T23:59:59Z",
-        "receivedMillis": 1621641599000
-      },
+      "startOn": "2021-05-21T14:13:00Z",
+      "startOnMillis": 1621606380000,
+      "endOn": "2021-05-21T14:13:00Z",
+      "endOnMillis": 1621606380000,
       "number": 966,
       "line": 966
     },
@@ -602,18 +525,10 @@
       "freq": 14075.8,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T14:26:00Z",
-      "startMillis": 1621607160000,
-      "end": "2021-05-21T14:29:00Z",
-      "endMillis": 1621607340000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635213596", "received": "2021-05-21T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-21T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-21T23:59:59Z",
-        "receivedMillis": 1621641599000
-      },
+      "startOn": "2021-05-21T14:26:00Z",
+      "startOnMillis": 1621607160000,
+      "endOn": "2021-05-21T14:29:00Z",
+      "endOnMillis": 1621607340000,
       "number": 967,
       "line": 967
     },
@@ -655,18 +570,10 @@
       "freq": 14075.8,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T14:29:00Z",
-      "startMillis": 1621607340000,
-      "end": "2021-05-21T14:31:00Z",
-      "endMillis": 1621607460000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635214066", "received": "2021-06-01T23:59:59Z" },
-          { "via": "lotw", "received": "2021-06-01T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-06-01T23:59:59Z",
-        "receivedMillis": 1622591999000
-      },
+      "startOn": "2021-05-21T14:29:00Z",
+      "startOnMillis": 1621607340000,
+      "endOn": "2021-05-21T14:31:00Z",
+      "endOnMillis": 1621607460000,
       "number": 968,
       "line": 968
     },
@@ -708,18 +615,10 @@
       "freq": 14075.8,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T14:36:00Z",
-      "startMillis": 1621607760000,
-      "end": "2021-05-21T14:36:00Z",
-      "endMillis": 1621607760000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635214500", "received": "2022-01-26T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-21T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-21T23:59:59Z",
-        "receivedMillis": 1621641599000
-      },
+      "startOn": "2021-05-21T14:36:00Z",
+      "startOnMillis": 1621607760000,
+      "endOn": "2021-05-21T14:36:00Z",
+      "endOnMillis": 1621607760000,
       "number": 969,
       "line": 969
     },
@@ -759,10 +658,10 @@
       "freq": 14075.8,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T14:49:00Z",
-      "startMillis": 1621608540000,
-      "end": "2021-05-21T14:50:00Z",
-      "endMillis": 1621608600000,
+      "startOn": "2021-05-21T14:49:00Z",
+      "startOnMillis": 1621608540000,
+      "endOn": "2021-05-21T14:50:00Z",
+      "endOnMillis": 1621608600000,
       "number": 970,
       "line": 970
     },
@@ -803,18 +702,10 @@
       "freq": 14075.8,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T15:02:00Z",
-      "startMillis": 1621609320000,
-      "end": "2021-05-21T15:03:00Z",
-      "endMillis": 1621609380000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635217405", "received": "2021-05-24T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-24T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-24T23:59:59Z",
-        "receivedMillis": 1621900799000
-      },
+      "startOn": "2021-05-21T15:02:00Z",
+      "startOnMillis": 1621609320000,
+      "endOn": "2021-05-21T15:03:00Z",
+      "endOnMillis": 1621609380000,
       "number": 971,
       "line": 971
     },
@@ -856,18 +747,10 @@
       "freq": 14075.8,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T15:13:00Z",
-      "startMillis": 1621609980000,
-      "end": "2021-05-21T15:14:00Z",
-      "endMillis": 1621610040000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635218508", "received": "2021-08-22T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-21T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-21T23:59:59Z",
-        "receivedMillis": 1621641599000
-      },
+      "startOn": "2021-05-21T15:13:00Z",
+      "startOnMillis": 1621609980000,
+      "endOn": "2021-05-21T15:14:00Z",
+      "endOnMillis": 1621610040000,
       "number": 972,
       "line": 972
     },
@@ -907,10 +790,10 @@
       "freq": 14075.8,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T15:17:00Z",
-      "startMillis": 1621610220000,
-      "end": "2021-05-21T15:19:00Z",
-      "endMillis": 1621610340000,
+      "startOn": "2021-05-21T15:17:00Z",
+      "startOnMillis": 1621610220000,
+      "endOn": "2021-05-21T15:19:00Z",
+      "endOnMillis": 1621610340000,
       "number": 973,
       "line": 973
     },
@@ -952,18 +835,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T15:20:00Z",
-      "startMillis": 1621610400000,
-      "end": "2021-05-21T15:22:00Z",
-      "endMillis": 1621610520000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635219260", "received": "2021-05-22T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-22T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T15:20:00Z",
+      "startOnMillis": 1621610400000,
+      "endOn": "2021-05-21T15:22:00Z",
+      "endOnMillis": 1621610520000,
       "number": 974,
       "line": 974
     },
@@ -1005,10 +880,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T15:21:00Z",
-      "startMillis": 1621610460000,
-      "end": "2021-05-21T15:24:00Z",
-      "endMillis": 1621610640000,
+      "startOn": "2021-05-21T15:21:00Z",
+      "startOnMillis": 1621610460000,
+      "endOn": "2021-05-21T15:24:00Z",
+      "endOnMillis": 1621610640000,
       "number": 975,
       "line": 975
     },
@@ -1050,18 +925,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T15:30:00Z",
-      "startMillis": 1621611000000,
-      "end": "2021-05-21T15:31:00Z",
-      "endMillis": 1621611060000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635220031", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-22T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T15:30:00Z",
+      "startOnMillis": 1621611000000,
+      "endOn": "2021-05-21T15:31:00Z",
+      "endOnMillis": 1621611060000,
       "number": 976,
       "line": 976
     },
@@ -1101,18 +968,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T15:30:00Z",
-      "startMillis": 1621611000000,
-      "end": "2021-05-21T15:32:00Z",
-      "endMillis": 1621611120000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635220245", "received": "2021-05-21T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-21T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-21T23:59:59Z",
-        "receivedMillis": 1621641599000
-      },
+      "startOn": "2021-05-21T15:30:00Z",
+      "startOnMillis": 1621611000000,
+      "endOn": "2021-05-21T15:32:00Z",
+      "endOnMillis": 1621611120000,
       "number": 977,
       "line": 977
     },
@@ -1152,18 +1011,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T15:39:00Z",
-      "startMillis": 1621611540000,
-      "end": "2021-05-21T15:41:00Z",
-      "endMillis": 1621611660000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635221150", "received": "2021-05-22T23:59:59Z" },
-          { "via": "lotw", "received": "2021-07-05T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T15:39:00Z",
+      "startOnMillis": 1621611540000,
+      "endOn": "2021-05-21T15:41:00Z",
+      "endOnMillis": 1621611660000,
       "number": 978,
       "line": 978
     },
@@ -1204,18 +1055,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T15:42:00Z",
-      "startMillis": 1621611720000,
-      "end": "2021-05-21T15:43:00Z",
-      "endMillis": 1621611780000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635221307", "received": "2021-05-21T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-21T23:59:59Z", "sent": "2021-05-21T23:59:59Z" }
-        ],
-        "received": "2021-05-21T23:59:59Z",
-        "receivedMillis": 1621641599000
-      },
+      "startOn": "2021-05-21T15:42:00Z",
+      "startOnMillis": 1621611720000,
+      "endOn": "2021-05-21T15:43:00Z",
+      "endOnMillis": 1621611780000,
       "number": 979,
       "line": 979
     },
@@ -1254,18 +1097,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T16:42:00Z",
-      "startMillis": 1621615320000,
-      "end": "2021-05-21T16:43:00Z",
-      "endMillis": 1621615380000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635229459", "received": "2021-05-22T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-22T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T16:42:00Z",
+      "startOnMillis": 1621615320000,
+      "endOn": "2021-05-21T16:43:00Z",
+      "endOnMillis": 1621615380000,
       "number": 980,
       "line": 980
     },
@@ -1288,7 +1123,7 @@
         "call": "KB4VL",
         "freq": 14075.7,
         "band": "20m",
-        "name": "ROGER H CALENDINE",
+        "name": "ROGER H CALENDOnINE",
         "continent": "NA",
         "entityName": "United States",
         "country": "United States",
@@ -1297,7 +1132,7 @@
         "sent": "-05",
         "county": "US/NY/Monroe",
         "dxccCode": 291,
-        "email": "RCALENDINE@GMAIL.COM",
+        "email": "RCALENDOnINE@GMAIL.COM",
         "grid": "EM75",
         "lat": "N043 04.201",
         "lon": "W077 30.920"
@@ -1305,18 +1140,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T16:47:00Z",
-      "startMillis": 1621615620000,
-      "end": "2021-05-21T16:48:00Z",
-      "endMillis": 1621615680000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635229915", "received": "2021-08-02T23:59:59Z" },
-          { "via": "lotw", "received": "2021-08-01T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-08-01T23:59:59Z",
-        "receivedMillis": 1627862399000
-      },
+      "startOn": "2021-05-21T16:47:00Z",
+      "startOnMillis": 1621615620000,
+      "endOn": "2021-05-21T16:48:00Z",
+      "endOnMillis": 1621615680000,
       "number": 981,
       "line": 981
     },
@@ -1355,18 +1182,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T17:00:00Z",
-      "startMillis": 1621616400000,
-      "end": "2021-05-21T17:01:00Z",
-      "endMillis": 1621616460000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635231059", "received": "2021-06-07T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-22T23:59:59Z", "sent": "2021-06-07T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T17:00:00Z",
+      "startOnMillis": 1621616400000,
+      "endOn": "2021-05-21T17:01:00Z",
+      "endOnMillis": 1621616460000,
       "number": 982,
       "line": 982
     },
@@ -1408,18 +1227,10 @@
       "freq": 18101.7,
       "band": "17m",
       "mode": "FT8",
-      "start": "2021-05-21T17:21:00Z",
-      "startMillis": 1621617660000,
-      "end": "2021-05-21T17:23:00Z",
-      "endMillis": 1621617780000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635233969", "received": "2021-05-24T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-24T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-24T23:59:59Z",
-        "receivedMillis": 1621900799000
-      },
+      "startOn": "2021-05-21T17:21:00Z",
+      "startOnMillis": 1621617660000,
+      "endOn": "2021-05-21T17:23:00Z",
+      "endOnMillis": 1621617780000,
       "number": 983,
       "line": 983
     },
@@ -1458,18 +1269,10 @@
       "freq": 18101.7,
       "band": "17m",
       "mode": "FT8",
-      "start": "2021-05-21T17:23:00Z",
-      "startMillis": 1621617780000,
-      "end": "2021-05-21T17:24:00Z",
-      "endMillis": 1621617840000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635234063", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-22T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T17:23:00Z",
+      "startOnMillis": 1621617780000,
+      "endOn": "2021-05-21T17:24:00Z",
+      "endOnMillis": 1621617840000,
       "number": 984,
       "line": 984
     },
@@ -1511,18 +1314,10 @@
       "freq": 18101.7,
       "band": "17m",
       "mode": "FT8",
-      "start": "2021-05-21T17:43:00Z",
-      "startMillis": 1621618980000,
-      "end": "2021-05-21T17:44:00Z",
-      "endMillis": 1621619040000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635236618", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-21T17:43:00Z",
+      "startOnMillis": 1621618980000,
+      "endOn": "2021-05-21T17:44:00Z",
+      "endOnMillis": 1621619040000,
       "number": 985,
       "line": 985
     },
@@ -1564,18 +1359,10 @@
       "freq": 10137.7,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T17:54:00Z",
-      "startMillis": 1621619640000,
-      "end": "2021-05-21T17:55:00Z",
-      "endMillis": 1621619700000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635237841", "received": "2022-07-01T23:59:59Z" },
-          { "via": "lotw", "received": "2021-06-01T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-06-01T23:59:59Z",
-        "receivedMillis": 1622591999000
-      },
+      "startOn": "2021-05-21T17:54:00Z",
+      "startOnMillis": 1621619640000,
+      "endOn": "2021-05-21T17:55:00Z",
+      "endOnMillis": 1621619700000,
       "number": 986,
       "line": 986
     },
@@ -1617,18 +1404,10 @@
       "freq": 10137.7,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-21T17:54:00Z",
-      "startMillis": 1621619640000,
-      "end": "2021-05-21T17:57:00Z",
-      "endMillis": 1621619820000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635238417", "received": "2021-05-28T23:59:59Z" },
-          { "via": "lotw", "received": "2021-11-06T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-28T23:59:59Z",
-        "receivedMillis": 1622246399000
-      },
+      "startOn": "2021-05-21T17:54:00Z",
+      "startOnMillis": 1621619640000,
+      "endOn": "2021-05-21T17:57:00Z",
+      "endOnMillis": 1621619820000,
       "number": 987,
       "line": 987
     },
@@ -1668,18 +1447,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T18:21:00Z",
-      "startMillis": 1621621260000,
-      "end": "2021-05-21T18:22:00Z",
-      "endMillis": 1621621320000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635246555", "received": "2021-05-28T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-28T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-28T23:59:59Z",
-        "receivedMillis": 1622246399000
-      },
+      "startOn": "2021-05-21T18:21:00Z",
+      "startOnMillis": 1621621260000,
+      "endOn": "2021-05-21T18:22:00Z",
+      "endOnMillis": 1621621320000,
       "number": 988,
       "line": 988
     },
@@ -1716,18 +1487,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T18:25:00Z",
-      "startMillis": 1621621500000,
-      "end": "2021-05-21T18:26:00Z",
-      "endMillis": 1621621560000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635246932", "received": "2021-07-22T23:59:59Z" },
-          { "via": "lotw", "received": "2021-07-21T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-07-21T23:59:59Z",
-        "receivedMillis": 1626911999000
-      },
+      "startOn": "2021-05-21T18:25:00Z",
+      "startOnMillis": 1621621500000,
+      "endOn": "2021-05-21T18:26:00Z",
+      "endOnMillis": 1621621560000,
       "number": 989,
       "line": 989
     },
@@ -1767,18 +1530,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T18:31:00Z",
-      "startMillis": 1621621860000,
-      "end": "2021-05-21T18:32:00Z",
-      "endMillis": 1621621920000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635247407", "received": "2021-05-22T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-22T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T18:31:00Z",
+      "startOnMillis": 1621621860000,
+      "endOn": "2021-05-21T18:32:00Z",
+      "endOnMillis": 1621621920000,
       "number": 990,
       "line": 990
     },
@@ -1820,18 +1575,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T18:43:00Z",
-      "startMillis": 1621622580000,
-      "end": "2021-05-21T18:43:00Z",
-      "endMillis": 1621622580000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635248453", "received": "2021-05-25T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-25T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-25T23:59:59Z",
-        "receivedMillis": 1621987199000
-      },
+      "startOn": "2021-05-21T18:43:00Z",
+      "startOnMillis": 1621622580000,
+      "endOn": "2021-05-21T18:43:00Z",
+      "endOnMillis": 1621622580000,
       "number": 991,
       "line": 991
     },
@@ -1872,18 +1619,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T18:55:00Z",
-      "startMillis": 1621623300000,
-      "end": "2021-05-21T18:55:00Z",
-      "endMillis": 1621623300000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635250923", "received": "2022-04-18T23:59:59Z" },
-          { "via": "lotw", "received": "2022-04-17T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2022-04-17T23:59:59Z",
-        "receivedMillis": 1650239999000
-      },
+      "startOn": "2021-05-21T18:55:00Z",
+      "startOnMillis": 1621623300000,
+      "endOn": "2021-05-21T18:55:00Z",
+      "endOnMillis": 1621623300000,
       "number": 992,
       "line": 992
     },
@@ -1924,18 +1663,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T18:59:00Z",
-      "startMillis": 1621623540000,
-      "end": "2021-05-21T19:00:00Z",
-      "endMillis": 1621623600000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635251598", "received": "2021-05-22T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-22T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T18:59:00Z",
+      "startOnMillis": 1621623540000,
+      "endOn": "2021-05-21T19:00:00Z",
+      "endOnMillis": 1621623600000,
       "number": 993,
       "line": 993
     },
@@ -1977,18 +1708,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T19:07:00Z",
-      "startMillis": 1621624020000,
-      "end": "2021-05-21T19:08:00Z",
-      "endMillis": 1621624080000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635265424", "received": "2022-03-07T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-21T19:07:00Z",
+      "startOnMillis": 1621624020000,
+      "endOn": "2021-05-21T19:08:00Z",
+      "endOnMillis": 1621624080000,
       "number": 994,
       "line": 994
     },
@@ -2028,18 +1751,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T20:11:00Z",
-      "startMillis": 1621627860000,
-      "end": "2021-05-21T20:12:00Z",
-      "endMillis": 1621627920000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635278472", "received": "2021-05-24T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-24T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-24T23:59:59Z",
-        "receivedMillis": 1621900799000
-      },
+      "startOn": "2021-05-21T20:11:00Z",
+      "startOnMillis": 1621627860000,
+      "endOn": "2021-05-21T20:12:00Z",
+      "endOnMillis": 1621627920000,
       "number": 995,
       "line": 995
     },
@@ -2079,10 +1794,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T20:25:00Z",
-      "startMillis": 1621628700000,
-      "end": "2021-05-21T20:29:00Z",
-      "endMillis": 1621628940000,
+      "startOn": "2021-05-21T20:25:00Z",
+      "startOnMillis": 1621628700000,
+      "endOn": "2021-05-21T20:29:00Z",
+      "endOnMillis": 1621628940000,
       "number": 996,
       "line": 996
     },
@@ -2122,18 +1837,10 @@
       "freq": 14075.7,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-21T21:04:00Z",
-      "startMillis": 1621631040000,
-      "end": "2021-05-21T21:05:00Z",
-      "endMillis": 1621631100000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635287554", "received": "2021-05-22T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-22T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T21:04:00Z",
+      "startOnMillis": 1621631040000,
+      "endOn": "2021-05-21T21:05:00Z",
+      "endOnMillis": 1621631100000,
       "number": 997,
       "line": 997
     },
@@ -2173,18 +1880,10 @@
       "freq": 18101.7,
       "band": "17m",
       "mode": "FT8",
-      "start": "2021-05-21T21:28:00Z",
-      "startMillis": 1621632480000,
-      "end": "2021-05-21T21:29:00Z",
-      "endMillis": 1621632540000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635290583", "received": "2021-06-08T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-22T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T21:28:00Z",
+      "startOnMillis": 1621632480000,
+      "endOn": "2021-05-21T21:29:00Z",
+      "endOnMillis": 1621632540000,
       "number": 998,
       "line": 998
     },
@@ -2224,18 +1923,10 @@
       "freq": 18101.7,
       "band": "17m",
       "mode": "FT8",
-      "start": "2021-05-21T21:50:00Z",
-      "startMillis": 1621633800000,
-      "end": "2021-05-21T21:52:00Z",
-      "endMillis": 1621633920000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635294664", "received": "2021-05-22T23:59:59Z" },
-          { "via": "lotw", "received": "2021-10-27T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T21:50:00Z",
+      "startOnMillis": 1621633800000,
+      "endOn": "2021-05-21T21:52:00Z",
+      "endOnMillis": 1621633920000,
       "number": 999,
       "line": 999
     },
@@ -2275,18 +1966,10 @@
       "freq": 18101.7,
       "band": "17m",
       "mode": "FT8",
-      "start": "2021-05-21T21:53:00Z",
-      "startMillis": 1621633980000,
-      "end": "2021-05-21T21:54:00Z",
-      "endMillis": 1621634040000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635294959", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-22T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T21:53:00Z",
+      "startOnMillis": 1621633980000,
+      "endOn": "2021-05-21T21:54:00Z",
+      "endOnMillis": 1621634040000,
       "number": 1000,
       "line": 1000
     },
@@ -2326,18 +2009,10 @@
       "freq": 18101.7,
       "band": "17m",
       "mode": "FT8",
-      "start": "2021-05-21T21:55:00Z",
-      "startMillis": 1621634100000,
-      "end": "2021-05-21T21:56:00Z",
-      "endMillis": 1621634160000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635295139", "received": "2021-06-04T23:59:59Z" },
-          { "via": "lotw", "received": "2021-06-08T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-06-04T23:59:59Z",
-        "receivedMillis": 1622851199000
-      },
+      "startOn": "2021-05-21T21:55:00Z",
+      "startOnMillis": 1621634100000,
+      "endOn": "2021-05-21T21:56:00Z",
+      "endOnMillis": 1621634160000,
       "number": 1001,
       "line": 1001
     },
@@ -2379,18 +2054,10 @@
       "freq": 14303,
       "band": "20m",
       "mode": "SSB",
-      "start": "2021-05-21T23:38:00Z",
-      "startMillis": 1621640280000,
-      "end": "2021-05-21T23:38:00Z",
-      "endMillis": 1621640280000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "711597719", "received": "2022-01-01T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-22T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-21T23:38:00Z",
+      "startOnMillis": 1621640280000,
+      "endOn": "2021-05-21T23:38:00Z",
+      "endOnMillis": 1621640280000,
       "number": 6203,
       "line": 6203
     },
@@ -2430,10 +2097,10 @@
       "freq": 14173,
       "band": "20m",
       "mode": "SSB",
-      "start": "2021-05-21T23:46:00Z",
-      "startMillis": 1621640760000,
-      "end": "2021-05-21T23:46:00Z",
-      "endMillis": 1621640760000,
+      "startOn": "2021-05-21T23:46:00Z",
+      "startOnMillis": 1621640760000,
+      "endOn": "2021-05-21T23:46:00Z",
+      "endOnMillis": 1621640760000,
       "number": 6204,
       "line": 6204
     },
@@ -2475,18 +2142,10 @@
       "freq": 7221,
       "band": "40m",
       "mode": "SSB",
-      "start": "2021-05-21T23:54:00Z",
-      "startMillis": 1621641240000,
-      "end": "2021-05-21T23:54:00Z",
-      "endMillis": 1621641240000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "711597721", "received": "2022-01-01T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-21T23:54:00Z",
+      "startOnMillis": 1621641240000,
+      "endOn": "2021-05-21T23:54:00Z",
+      "endOnMillis": 1621641240000,
       "number": 6205,
       "line": 6205
     },
@@ -2526,18 +2185,10 @@
       "freq": 10138.2,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-22T00:23:00Z",
-      "startMillis": 1621642980000,
-      "end": "2021-05-22T00:25:00Z",
-      "endMillis": 1621643100000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635328153", "received": "2021-05-22T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-22T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-05-22T23:59:59Z",
-        "receivedMillis": 1621727999000
-      },
+      "startOn": "2021-05-22T00:23:00Z",
+      "startOnMillis": 1621642980000,
+      "endOn": "2021-05-22T00:25:00Z",
+      "endOnMillis": 1621643100000,
       "number": 1002,
       "line": 1002
     },
@@ -2575,18 +2226,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T00:30:00Z",
-      "startMillis": 1621643400000,
-      "end": "2021-05-22T00:31:00Z",
-      "endMillis": 1621643460000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635329146", "received": "2021-07-11T23:59:59Z" },
-          { "via": "lotw", "received": "2022-01-02T23:59:59Z", "sent": "2021-05-22T23:59:59Z" }
-        ],
-        "received": "2021-07-11T23:59:59Z",
-        "receivedMillis": 1626047999000
-      },
+      "startOn": "2021-05-22T00:30:00Z",
+      "startOnMillis": 1621643400000,
+      "endOn": "2021-05-22T00:31:00Z",
+      "endOnMillis": 1621643460000,
       "number": 1003,
       "line": 1003
     },
@@ -2625,18 +2268,10 @@
       "freq": 3575.16,
       "band": "80m",
       "mode": "FT8",
-      "start": "2021-05-22T00:56:00Z",
-      "startMillis": 1621644960000,
-      "end": "2021-05-22T00:57:00Z",
-      "endMillis": 1621645020000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635331857", "received": "2021-07-14T23:59:59Z" },
-          { "via": "lotw", "received": "2021-07-14T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-07-14T23:59:59Z",
-        "receivedMillis": 1626307199000
-      },
+      "startOn": "2021-05-22T00:56:00Z",
+      "startOnMillis": 1621644960000,
+      "endOn": "2021-05-22T00:57:00Z",
+      "endOnMillis": 1621645020000,
       "number": 1004,
       "line": 1004
     },
@@ -2674,10 +2309,10 @@
       "freq": 3575.16,
       "band": "80m",
       "mode": "FT8",
-      "start": "2021-05-22T01:04:00Z",
-      "startMillis": 1621645440000,
-      "end": "2021-05-22T01:08:00Z",
-      "endMillis": 1621645680000,
+      "startOn": "2021-05-22T01:04:00Z",
+      "startOnMillis": 1621645440000,
+      "endOn": "2021-05-22T01:08:00Z",
+      "endOnMillis": 1621645680000,
       "number": 1005,
       "line": 1005
     },
@@ -2719,18 +2354,10 @@
       "freq": 3575.16,
       "band": "80m",
       "mode": "FT8",
-      "start": "2021-05-22T01:10:00Z",
-      "startMillis": 1621645800000,
-      "end": "2021-05-22T01:11:00Z",
-      "endMillis": 1621645860000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635333938", "received": "2021-07-26T23:59:59Z" },
-          { "via": "lotw", "received": "2021-07-26T23:59:59Z", "sent": "2021-06-07T23:59:59Z" }
-        ],
-        "received": "2021-07-26T23:59:59Z",
-        "receivedMillis": 1627343999000
-      },
+      "startOn": "2021-05-22T01:10:00Z",
+      "startOnMillis": 1621645800000,
+      "endOn": "2021-05-22T01:11:00Z",
+      "endOnMillis": 1621645860000,
       "number": 1006,
       "line": 1006
     },
@@ -2772,18 +2399,10 @@
       "freq": 3575.16,
       "band": "80m",
       "mode": "FT8",
-      "start": "2021-05-22T01:12:00Z",
-      "startMillis": 1621645920000,
-      "end": "2021-05-22T01:13:00Z",
-      "endMillis": 1621645980000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635334259", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T01:12:00Z",
+      "startOnMillis": 1621645920000,
+      "endOn": "2021-05-22T01:13:00Z",
+      "endOnMillis": 1621645980000,
       "number": 1007,
       "line": 1007
     },
@@ -2825,18 +2444,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T01:14:00Z",
-      "startMillis": 1621646040000,
-      "end": "2021-05-22T01:15:00Z",
-      "endMillis": 1621646100000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635334683", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T01:14:00Z",
+      "startOnMillis": 1621646040000,
+      "endOn": "2021-05-22T01:15:00Z",
+      "endOnMillis": 1621646100000,
       "number": 1008,
       "line": 1008
     },
@@ -2876,15 +2487,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T01:37:00Z",
-      "startMillis": 1621647420000,
-      "end": "2021-05-22T01:40:00Z",
-      "endMillis": 1621647600000,
-      "qsl": {
-        "sources": [{ "via": "qrz", "id": "635336906", "received": "2021-05-31T23:59:59Z" }],
-        "received": "2021-05-31T23:59:59Z",
-        "receivedMillis": 1622505599000
-      },
+      "startOn": "2021-05-22T01:37:00Z",
+      "startOnMillis": 1621647420000,
+      "endOn": "2021-05-22T01:40:00Z",
+      "endOnMillis": 1621647600000,
       "number": 1009,
       "line": 1009
     },
@@ -2924,18 +2530,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T01:43:00Z",
-      "startMillis": 1621647780000,
-      "end": "2021-05-22T01:45:00Z",
-      "endMillis": 1621647900000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635337194", "received": "2021-05-24T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-24T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-24T23:59:59Z",
-        "receivedMillis": 1621900799000
-      },
+      "startOn": "2021-05-22T01:43:00Z",
+      "startOnMillis": 1621647780000,
+      "endOn": "2021-05-22T01:45:00Z",
+      "endOnMillis": 1621647900000,
       "number": 1010,
       "line": 1010
     },
@@ -2974,18 +2572,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T01:46:00Z",
-      "startMillis": 1621647960000,
-      "end": "2021-05-22T01:47:00Z",
-      "endMillis": 1621648020000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635337382", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-24T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T01:46:00Z",
+      "startOnMillis": 1621647960000,
+      "endOn": "2021-05-22T01:47:00Z",
+      "endOnMillis": 1621648020000,
       "number": 1011,
       "line": 1011
     },
@@ -3025,18 +2615,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T02:03:00Z",
-      "startMillis": 1621648980000,
-      "end": "2021-05-22T02:04:00Z",
-      "endMillis": 1621649040000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635339555", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T02:03:00Z",
+      "startOnMillis": 1621648980000,
+      "endOn": "2021-05-22T02:04:00Z",
+      "endOnMillis": 1621649040000,
       "number": 1012,
       "line": 1012
     },
@@ -3075,18 +2657,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T02:21:00Z",
-      "startMillis": 1621650060000,
-      "end": "2021-05-22T02:22:00Z",
-      "endMillis": 1621650120000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635341195", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T02:21:00Z",
+      "startOnMillis": 1621650060000,
+      "endOn": "2021-05-22T02:22:00Z",
+      "endOnMillis": 1621650120000,
       "number": 1013,
       "line": 1013
     },
@@ -3126,18 +2700,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T02:35:00Z",
-      "startMillis": 1621650900000,
-      "end": "2021-05-22T02:36:00Z",
-      "endMillis": 1621650960000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635342999", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T02:35:00Z",
+      "startOnMillis": 1621650900000,
+      "endOn": "2021-05-22T02:36:00Z",
+      "endOnMillis": 1621650960000,
       "number": 1014,
       "line": 1014
     },
@@ -3179,18 +2745,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T02:37:00Z",
-      "startMillis": 1621651020000,
-      "end": "2021-05-22T02:38:00Z",
-      "endMillis": 1621651080000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635343205", "received": "2021-12-02T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T02:37:00Z",
+      "startOnMillis": 1621651020000,
+      "endOn": "2021-05-22T02:38:00Z",
+      "endOnMillis": 1621651080000,
       "number": 1015,
       "line": 1015
     },
@@ -3232,18 +2790,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T02:39:00Z",
-      "startMillis": 1621651140000,
-      "end": "2021-05-22T02:41:00Z",
-      "endMillis": 1621651260000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635343367", "received": "2021-06-11T23:59:59Z" },
-          { "via": "lotw", "received": "2021-06-11T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-06-11T23:59:59Z",
-        "receivedMillis": 1623455999000
-      },
+      "startOn": "2021-05-22T02:39:00Z",
+      "startOnMillis": 1621651140000,
+      "endOn": "2021-05-22T02:41:00Z",
+      "endOnMillis": 1621651260000,
       "number": 1016,
       "line": 1016
     },
@@ -3281,18 +2831,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T02:51:00Z",
-      "startMillis": 1621651860000,
-      "end": "2021-05-22T02:52:00Z",
-      "endMillis": 1621651920000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635344129", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T02:51:00Z",
+      "startOnMillis": 1621651860000,
+      "endOn": "2021-05-22T02:52:00Z",
+      "endOnMillis": 1621651920000,
       "number": 1017,
       "line": 1017
     },
@@ -3334,18 +2876,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T02:55:00Z",
-      "startMillis": 1621652100000,
-      "end": "2021-05-22T02:58:00Z",
-      "endMillis": 1621652280000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635344641", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T02:55:00Z",
+      "startOnMillis": 1621652100000,
+      "endOn": "2021-05-22T02:58:00Z",
+      "endOnMillis": 1621652280000,
       "number": 1018,
       "line": 1018
     },
@@ -3384,15 +2918,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T03:01:00Z",
-      "startMillis": 1621652460000,
-      "end": "2021-05-22T03:02:00Z",
-      "endMillis": 1621652520000,
-      "qsl": {
-        "sources": [{ "via": "qrz", "id": "635344990", "received": "2022-02-12T23:59:59Z" }],
-        "received": "2022-02-12T23:59:59Z",
-        "receivedMillis": 1644710399000
-      },
+      "startOn": "2021-05-22T03:01:00Z",
+      "startOnMillis": 1621652460000,
+      "endOn": "2021-05-22T03:02:00Z",
+      "endOnMillis": 1621652520000,
       "number": 1019,
       "line": 1019
     },
@@ -3432,18 +2961,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T03:06:00Z",
-      "startMillis": 1621652760000,
-      "end": "2021-05-22T03:07:00Z",
-      "endMillis": 1621652820000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635346122", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T03:06:00Z",
+      "startOnMillis": 1621652760000,
+      "endOn": "2021-05-22T03:07:00Z",
+      "endOnMillis": 1621652820000,
       "number": 1020,
       "line": 1020
     },
@@ -3484,15 +3005,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T03:37:00Z",
-      "startMillis": 1621654620000,
-      "end": "2021-05-22T03:38:00Z",
-      "endMillis": 1621654680000,
-      "qsl": {
-        "sources": [{ "via": "qrz", "id": "635349827", "received": "2021-05-23T23:59:59Z" }],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T03:37:00Z",
+      "startOnMillis": 1621654620000,
+      "endOn": "2021-05-22T03:38:00Z",
+      "endOnMillis": 1621654680000,
       "number": 1021,
       "line": 1021
     },
@@ -3534,18 +3050,10 @@
       "freq": 7076.16,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-22T03:40:00Z",
-      "startMillis": 1621654800000,
-      "end": "2021-05-22T03:41:00Z",
-      "endMillis": 1621654860000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635350024", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T03:40:00Z",
+      "startOnMillis": 1621654800000,
+      "endOn": "2021-05-22T03:41:00Z",
+      "endOnMillis": 1621654860000,
       "number": 1022,
       "line": 1022
     },
@@ -3568,7 +3076,7 @@
         "call": "HD1ECU",
         "freq": 10138.2,
         "band": "30m",
-        "name": "Ecuador Independence Day",
+        "name": "Ecuador IndependOnence Day",
         "continent": "SA",
         "entityName": "Ecuador",
         "country": "Ecuador",
@@ -3585,18 +3093,10 @@
       "freq": 10138.2,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-22T11:50:00Z",
-      "startMillis": 1621684200000,
-      "end": "2021-05-22T11:52:00Z",
-      "endMillis": 1621684320000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635448923", "received": "2021-09-22T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-25T23:59:59Z", "sent": "2021-09-22T23:59:59Z" }
-        ],
-        "received": "2021-05-25T23:59:59Z",
-        "receivedMillis": 1621987199000
-      },
+      "startOn": "2021-05-22T11:50:00Z",
+      "startOnMillis": 1621684200000,
+      "endOn": "2021-05-22T11:52:00Z",
+      "endOnMillis": 1621684320000,
       "number": 1023,
       "line": 1023
     },
@@ -3636,18 +3136,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-22T13:03:00Z",
-      "startMillis": 1621688580000,
-      "end": "2021-05-22T13:04:00Z",
-      "endMillis": 1621688640000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635459254", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T13:03:00Z",
+      "startOnMillis": 1621688580000,
+      "endOn": "2021-05-22T13:04:00Z",
+      "endOnMillis": 1621688640000,
       "number": 1024,
       "line": 1024
     },
@@ -3689,18 +3181,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-22T18:47:00Z",
-      "startMillis": 1621709220000,
-      "end": "2021-05-22T18:48:00Z",
-      "endMillis": 1621709280000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635637754", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-22T18:47:00Z",
+      "startOnMillis": 1621709220000,
+      "endOn": "2021-05-22T18:48:00Z",
+      "endOnMillis": 1621709280000,
       "number": 1025,
       "line": 1025
     },
@@ -3742,18 +3226,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-22T20:02:00Z",
-      "startMillis": 1621713720000,
-      "end": "2021-05-22T20:03:00Z",
-      "endMillis": 1621713780000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635661273", "received": "2021-07-11T23:59:59Z" },
-          { "via": "lotw", "received": "2021-07-11T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-07-11T23:59:59Z",
-        "receivedMillis": 1626047999000
-      },
+      "startOn": "2021-05-22T20:02:00Z",
+      "startOnMillis": 1621713720000,
+      "endOn": "2021-05-22T20:03:00Z",
+      "endOnMillis": 1621713780000,
       "number": 1026,
       "line": 1026
     },
@@ -3795,15 +3271,10 @@
       "freq": 7076.24,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-23T01:06:00Z",
-      "startMillis": 1621731960000,
-      "end": "2021-05-23T01:08:00Z",
-      "endMillis": 1621732080000,
-      "qsl": {
-        "sources": [{ "via": "qrz", "id": "635725171", "received": "2021-05-23T23:59:59Z" }],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T01:06:00Z",
+      "startOnMillis": 1621731960000,
+      "endOn": "2021-05-23T01:08:00Z",
+      "endOnMillis": 1621732080000,
       "number": 1027,
       "line": 1027
     },
@@ -3843,18 +3314,10 @@
       "freq": 7076.24,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-23T02:28:00Z",
-      "startMillis": 1621736880000,
-      "end": "2021-05-23T02:29:00Z",
-      "endMillis": 1621736940000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635739240", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T02:28:00Z",
+      "startOnMillis": 1621736880000,
+      "endOn": "2021-05-23T02:29:00Z",
+      "endOnMillis": 1621736940000,
       "number": 1028,
       "line": 1028
     },
@@ -3893,18 +3356,10 @@
       "freq": 7076.24,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-23T02:33:00Z",
-      "startMillis": 1621737180000,
-      "end": "2021-05-23T02:34:00Z",
-      "endMillis": 1621737240000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635740104", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T02:33:00Z",
+      "startOnMillis": 1621737180000,
+      "endOn": "2021-05-23T02:34:00Z",
+      "endOnMillis": 1621737240000,
       "number": 1029,
       "line": 1029
     },
@@ -3944,18 +3399,10 @@
       "freq": 7076.24,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-23T02:36:00Z",
-      "startMillis": 1621737360000,
-      "end": "2021-05-23T02:38:00Z",
-      "endMillis": 1621737480000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635740509", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T02:36:00Z",
+      "startOnMillis": 1621737360000,
+      "endOn": "2021-05-23T02:38:00Z",
+      "endOnMillis": 1621737480000,
       "number": 1030,
       "line": 1030
     },
@@ -3996,10 +3443,10 @@
       "freq": 7076.24,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-23T02:39:00Z",
-      "startMillis": 1621737540000,
-      "end": "2021-05-23T02:43:00Z",
-      "endMillis": 1621737780000,
+      "startOn": "2021-05-23T02:39:00Z",
+      "startOnMillis": 1621737540000,
+      "endOn": "2021-05-23T02:43:00Z",
+      "endOnMillis": 1621737780000,
       "number": 1031,
       "line": 1031
     },
@@ -4039,18 +3486,10 @@
       "freq": 7076.24,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-23T02:58:00Z",
-      "startMillis": 1621738680000,
-      "end": "2021-05-23T03:04:00Z",
-      "endMillis": 1621739040000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635743702", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T02:58:00Z",
+      "startOnMillis": 1621738680000,
+      "endOn": "2021-05-23T03:04:00Z",
+      "endOnMillis": 1621739040000,
       "number": 1032,
       "line": 1032
     },
@@ -4091,18 +3530,10 @@
       "freq": 7076.24,
       "band": "40m",
       "mode": "FT8",
-      "start": "2021-05-23T03:25:00Z",
-      "startMillis": 1621740300000,
-      "end": "2021-05-23T03:26:00Z",
-      "endMillis": 1621740360000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635746403", "received": "2021-05-27T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T03:25:00Z",
+      "startOnMillis": 1621740300000,
+      "endOn": "2021-05-23T03:26:00Z",
+      "endOnMillis": 1621740360000,
       "number": 1033,
       "line": 1033
     },
@@ -4142,18 +3573,10 @@
       "freq": 10138.2,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-23T11:11:00Z",
-      "startMillis": 1621768260000,
-      "end": "2021-05-23T11:12:00Z",
-      "endMillis": 1621768320000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635872596", "received": "2021-05-24T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-24T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-24T23:59:59Z",
-        "receivedMillis": 1621900799000
-      },
+      "startOn": "2021-05-23T11:11:00Z",
+      "startOnMillis": 1621768260000,
+      "endOn": "2021-05-23T11:12:00Z",
+      "endOnMillis": 1621768320000,
       "number": 1034,
       "line": 1034
     },
@@ -4194,18 +3617,10 @@
       "freq": 10138.2,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-23T11:15:00Z",
-      "startMillis": 1621768500000,
-      "end": "2021-05-23T11:16:00Z",
-      "endMillis": 1621768560000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635873329", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T11:15:00Z",
+      "startOnMillis": 1621768500000,
+      "endOn": "2021-05-23T11:16:00Z",
+      "endOnMillis": 1621768560000,
       "number": 1035,
       "line": 1035
     },
@@ -4246,18 +3661,10 @@
       "freq": 10138.2,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-23T11:16:00Z",
-      "startMillis": 1621768560000,
-      "end": "2021-05-23T11:17:00Z",
-      "endMillis": 1621768620000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635873492", "received": "2021-05-24T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-24T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-24T23:59:59Z",
-        "receivedMillis": 1621900799000
-      },
+      "startOn": "2021-05-23T11:16:00Z",
+      "startOnMillis": 1621768560000,
+      "endOn": "2021-05-23T11:17:00Z",
+      "endOnMillis": 1621768620000,
       "number": 1036,
       "line": 1036
     },
@@ -4299,18 +3706,10 @@
       "freq": 10138.2,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-23T11:18:00Z",
-      "startMillis": 1621768680000,
-      "end": "2021-05-23T11:19:00Z",
-      "endMillis": 1621768740000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635873703", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T11:18:00Z",
+      "startOnMillis": 1621768680000,
+      "endOn": "2021-05-23T11:19:00Z",
+      "endOnMillis": 1621768740000,
       "number": 1037,
       "line": 1037
     },
@@ -4347,18 +3746,10 @@
       "freq": 10138.2,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-23T11:45:00Z",
-      "startMillis": 1621770300000,
-      "end": "2021-05-23T11:51:00Z",
-      "endMillis": 1621770660000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635881628", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T11:45:00Z",
+      "startOnMillis": 1621770300000,
+      "endOn": "2021-05-23T11:51:00Z",
+      "endOnMillis": 1621770660000,
       "number": 1038,
       "line": 1038
     },
@@ -4398,10 +3789,10 @@
       "freq": 10138.2,
       "band": "30m",
       "mode": "FT8",
-      "start": "2021-05-23T11:56:00Z",
-      "startMillis": 1621770960000,
-      "end": "2021-05-23T11:56:00Z",
-      "endMillis": 1621770960000,
+      "startOn": "2021-05-23T11:56:00Z",
+      "startOnMillis": 1621770960000,
+      "endOn": "2021-05-23T11:56:00Z",
+      "endOnMillis": 1621770960000,
       "number": 1039,
       "line": 1039
     },
@@ -4440,18 +3831,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-23T13:51:00Z",
-      "startMillis": 1621777860000,
-      "end": "2021-05-23T13:52:00Z",
-      "endMillis": 1621777920000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635929342", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T13:51:00Z",
+      "startOnMillis": 1621777860000,
+      "endOn": "2021-05-23T13:52:00Z",
+      "endOnMillis": 1621777920000,
       "number": 1040,
       "line": 1040
     },
@@ -4493,18 +3876,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-23T14:18:00Z",
-      "startMillis": 1621779480000,
-      "end": "2021-05-23T14:19:00Z",
-      "endMillis": 1621779540000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635934183", "received": "2021-05-26T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-26T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-26T23:59:59Z",
-        "receivedMillis": 1622073599000
-      },
+      "startOn": "2021-05-23T14:18:00Z",
+      "startOnMillis": 1621779480000,
+      "endOn": "2021-05-23T14:19:00Z",
+      "endOnMillis": 1621779540000,
       "number": 1041,
       "line": 1041
     },
@@ -4546,18 +3921,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-23T14:25:00Z",
-      "startMillis": 1621779900000,
-      "end": "2021-05-23T14:26:00Z",
-      "endMillis": 1621779960000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635936025", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T14:25:00Z",
+      "startOnMillis": 1621779900000,
+      "endOn": "2021-05-23T14:26:00Z",
+      "endOnMillis": 1621779960000,
       "number": 1042,
       "line": 1042
     },
@@ -4599,18 +3966,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-23T15:50:00Z",
-      "startMillis": 1621785000000,
-      "end": "2021-05-23T15:51:00Z",
-      "endMillis": 1621785060000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635978230", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T15:50:00Z",
+      "startOnMillis": 1621785000000,
+      "endOn": "2021-05-23T15:51:00Z",
+      "endOnMillis": 1621785060000,
       "number": 1043,
       "line": 1043
     },
@@ -4633,14 +3992,14 @@
         "call": "W4IOE",
         "freq": 14076.2,
         "band": "20m",
-        "name": "SIDNEY R HENDRICKS",
+        "name": "SIDNEY R HENDOnRICKS",
         "continent": "NA",
         "entityName": "United States",
         "country": "United States",
         "qth": "FLETCHER",
         "state": "NC",
         "sent": "+11",
-        "county": "US/NC/Henderson",
+        "county": "US/NC/HendOnerson",
         "cqZone": 5,
         "ituZone": 8,
         "dxccCode": 291,
@@ -4652,18 +4011,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-23T16:15:00Z",
-      "startMillis": 1621786500000,
-      "end": "2021-05-23T16:16:00Z",
-      "endMillis": 1621786560000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635990251", "received": "2021-05-24T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-24T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-24T23:59:59Z",
-        "receivedMillis": 1621900799000
-      },
+      "startOn": "2021-05-23T16:15:00Z",
+      "startOnMillis": 1621786500000,
+      "endOn": "2021-05-23T16:16:00Z",
+      "endOnMillis": 1621786560000,
       "number": 1044,
       "line": 1044
     },
@@ -4704,18 +4055,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-23T16:24:00Z",
-      "startMillis": 1621787040000,
-      "end": "2021-05-23T16:25:00Z",
-      "endMillis": 1621787100000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635991753", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T16:24:00Z",
+      "startOnMillis": 1621787040000,
+      "endOn": "2021-05-23T16:25:00Z",
+      "endOnMillis": 1621787100000,
       "number": 1045,
       "line": 1045
     },
@@ -4755,18 +4098,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-23T16:29:00Z",
-      "startMillis": 1621787340000,
-      "end": "2021-05-23T16:30:00Z",
-      "endMillis": 1621787400000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635992807", "received": "2021-11-09T23:59:59Z" },
-          { "via": "lotw", "received": "2021-11-09T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-11-09T23:59:59Z",
-        "receivedMillis": 1636502399000
-      },
+      "startOn": "2021-05-23T16:29:00Z",
+      "startOnMillis": 1621787340000,
+      "endOn": "2021-05-23T16:30:00Z",
+      "endOnMillis": 1621787400000,
       "number": 1046,
       "line": 1046
     },
@@ -4807,15 +4142,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-23T16:42:00Z",
-      "startMillis": 1621788120000,
-      "end": "2021-05-23T16:43:00Z",
-      "endMillis": 1621788180000,
-      "qsl": {
-        "sources": [{ "via": "qrz", "id": "635995553", "received": "2021-05-23T23:59:59Z" }],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T16:42:00Z",
+      "startOnMillis": 1621788120000,
+      "endOn": "2021-05-23T16:43:00Z",
+      "endOnMillis": 1621788180000,
       "number": 1047,
       "line": 1047
     },
@@ -4857,18 +4187,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-23T16:44:00Z",
-      "startMillis": 1621788240000,
-      "end": "2021-05-23T16:45:00Z",
-      "endMillis": 1621788300000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635996071", "received": "2021-08-07T23:59:59Z" },
-          { "via": "lotw", "received": "2021-08-05T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-08-05T23:59:59Z",
-        "receivedMillis": 1628207999000
-      },
+      "startOn": "2021-05-23T16:44:00Z",
+      "startOnMillis": 1621788240000,
+      "endOn": "2021-05-23T16:45:00Z",
+      "endOnMillis": 1621788300000,
       "number": 1048,
       "line": 1048
     },
@@ -4908,18 +4230,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-23T16:49:00Z",
-      "startMillis": 1621788540000,
-      "end": "2021-05-23T16:50:00Z",
-      "endMillis": 1621788600000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "635996680", "received": "2021-05-27T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-27T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-27T23:59:59Z",
-        "receivedMillis": 1622159999000
-      },
+      "startOn": "2021-05-23T16:49:00Z",
+      "startOnMillis": 1621788540000,
+      "endOn": "2021-05-23T16:50:00Z",
+      "endOnMillis": 1621788600000,
       "number": 1049,
       "line": 1049
     },
@@ -4960,18 +4274,10 @@
       "freq": 14076.2,
       "band": "20m",
       "mode": "FT8",
-      "start": "2021-05-23T22:06:00Z",
-      "startMillis": 1621807560000,
-      "end": "2021-05-23T22:08:00Z",
-      "endMillis": 1621807680000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "636091606", "received": "2021-05-23T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T22:06:00Z",
+      "startOnMillis": 1621807560000,
+      "endOn": "2021-05-23T22:08:00Z",
+      "endOnMillis": 1621807680000,
       "number": 1050,
       "line": 1050
     },
@@ -5011,18 +4317,10 @@
       "freq": 18102.2,
       "band": "17m",
       "mode": "FT8",
-      "start": "2021-05-23T22:12:00Z",
-      "startMillis": 1621807920000,
-      "end": "2021-05-23T22:14:00Z",
-      "endMillis": 1621808040000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "636093636", "received": "2021-08-07T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-23T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-23T23:59:59Z",
-        "receivedMillis": 1621814399000
-      },
+      "startOn": "2021-05-23T22:12:00Z",
+      "startOnMillis": 1621807920000,
+      "endOn": "2021-05-23T22:14:00Z",
+      "endOnMillis": 1621808040000,
       "number": 1051,
       "line": 1051
     },
@@ -5059,18 +4357,10 @@
       "freq": 18102.2,
       "band": "17m",
       "mode": "FT8",
-      "start": "2021-05-23T22:15:00Z",
-      "startMillis": 1621808100000,
-      "end": "2021-05-23T22:16:00Z",
-      "endMillis": 1621808160000,
-      "qsl": {
-        "sources": [
-          { "via": "qrz", "id": "636094039", "received": "2021-05-25T23:59:59Z" },
-          { "via": "lotw", "received": "2021-05-24T23:59:59Z", "sent": "2021-05-23T23:59:59Z" }
-        ],
-        "received": "2021-05-24T23:59:59Z",
-        "receivedMillis": 1621900799000
-      },
+      "startOn": "2021-05-23T22:15:00Z",
+      "startOnMillis": 1621808100000,
+      "endOn": "2021-05-23T22:16:00Z",
+      "endOnMillis": 1621808160000,
       "number": 1052,
       "line": 1052
     }

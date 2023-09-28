@@ -1,14 +1,14 @@
 function qsoKey (qso) {
   const {
-    start,
-    end,
+    startOn,
+    endOn,
     band,
     mode,
     our: { call: ourCall },
     their: { call: theirCall }
   } = qso
 
-  return [theirCall, end ?? start, band, mode, ourCall].join('|')
+  return [theirCall, endOn ?? startOn, band, mode, ourCall].join('|')
 }
 
 module.exports = {
