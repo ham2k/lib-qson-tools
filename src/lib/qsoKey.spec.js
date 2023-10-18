@@ -1,11 +1,19 @@
-const { qsoKey } = require('./qsoKey')
+const { qsoKey, roundedTimeKey } = require('./qsoKey')
 const qson = require('./sampleQSON.json')
 
 describe('qsoKey', () => {
   it('should work', () => {
-    expect(qsoKey(qson.qsos[0])).toEqual('YV6IA|2021-05-21T11:44:00Z|30m|FT8|KI2D')
-    expect(qsoKey(qson.qsos[1])).toEqual('N4NP|2021-05-21T11:46:00Z|30m|FT8|KI2D')
-    expect(qsoKey(qson.qsos[20])).toEqual('W5APO|2021-05-21T15:31:00Z|20m|FT8|KI2D')
-    expect(qsoKey(qson.qsos[50])).toEqual('VP8ADR|2021-05-22T00:31:00Z|40m|FT8|KI2D')
+    expect(qsoKey(qson.qsos[0])).toEqual('202105211140|YV6IA|KI2D|30m|FT8')
+    expect(qsoKey(qson.qsos[1])).toEqual('202105211140|N4NP|KI2D|30m|FT8')
+    expect(qsoKey(qson.qsos[20])).toEqual('202105211530|W5APO|KI2D|20m|FT8')
+    expect(qsoKey(qson.qsos[50])).toEqual('202105220030|VP8ADR|KI2D|40m|FT8')
+  })
+})
+
+describe('roundedTimeKey', () => {
+  it('should work', () => {
+    expect(roundedTimeKey('2021-05-21T11:44:00Z')).toEqual('202105211140')
+    expect(roundedTimeKey('2021-05-21T23:59:59Z')).toEqual('202105212350')
+    expect(roundedTimeKey('2021-05-21T23:59:59-0400')).toEqual('202105220350')
   })
 })
