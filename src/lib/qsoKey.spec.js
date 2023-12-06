@@ -1,5 +1,5 @@
-const { qsoKey, roundedTimeKey } = require('./qsoKey')
-const qson = require('./sampleQSON.json')
+import { qsoKey, roundedTimeKey } from './qsoKey'
+import qson from './sampleQSON.json'
 
 describe('qsoKey', () => {
   it('should work', () => {

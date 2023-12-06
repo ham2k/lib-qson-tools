@@ -10,7 +10,7 @@
  *   [source]*(https://clublog.freshdesk.com/support/solutions/articles/175988-checking-for-log-matches)
  */
 
-function qsoKey (qso) {
+export function qsoKey (qso) {
   const {
     startOn,
     startOnMillis,
@@ -25,7 +25,7 @@ function qsoKey (qso) {
   return [roundedTimeKey(startOn ?? endOn), theirCall, ourCall, band, mode].join('|')
 }
 
-function roundedTimeKey (time) {
+export function roundedTimeKey (time) {
   if (!(time instanceof Date)) {
     time = new Date(time)
   }
@@ -39,10 +39,4 @@ function roundedTimeKey (time) {
     + (time.getUTCHours() * 100)
     + roundedMinutes
   ).toString()
-}
-
-module.exports = {
-  qsoKey,
-  roundedTimeKey
-
 }
