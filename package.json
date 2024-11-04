@@ -1,6 +1,6 @@
 {
   "name": "@ham2k/lib-qson-tools",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "type": "module",
   "devDependencies": {
     "jest": "^29.5.0",

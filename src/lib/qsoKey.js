@@ -14,17 +14,17 @@ const TIME_RESOLUTION = 5 // minutes
 
 export function qsoKey (qso) {
   const {
-    startOn,
-    startOnMillis,
-    endOn,
-    endOnMillis,
+    startAt,
+    startAtMillis,
+    endAt,
+    endAtMillis,
     band,
     mode,
     our: { call: ourCall },
     their: { call: theirCall }
   } = qso
 
-  return [roundedTimeKey(startOnMillis ?? startOn ?? endOnMillis ?? endOn), theirCall, ourCall, band, mode].join('|')
+  return [roundedTimeKey(startAtMillis ?? startAt ?? endAtMillis ?? endAt), theirCall, ourCall, band, mode].join('|')
 }
 
 export function roundedTimeKey (time) {
