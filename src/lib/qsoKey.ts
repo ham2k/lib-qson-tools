@@ -1,3 +1,5 @@
+import { QSON } from './QSON'
+
 /**
  * This key can be used to uniquely identify a QSO, by callsign, band and mode.
  *
@@ -12,7 +14,7 @@
 
 const TIME_RESOLUTION = 5 // minutes
 
-export function qsoKey (qso) {
+export function qsoKey(qso: QSON): string {
   const {
     startAt,
     startAtMillis,
@@ -27,18 +29,24 @@ export function qsoKey (qso) {
   return [roundedTimeKey(startAtMillis ?? startAt ?? endAtMillis ?? endAt), theirCall, ourCall, band, mode].join('|')
 }
 
-export function roundedTimeKey (time) {
-  if (!(time instanceof Date)) {
-    time = new Date(time)
+export function roundedTimeKey(time: Date | string | number | undefined): string {
+  let dateTime: Date
+  if (!time) {
+    dateTime = new Date()
+  } else if (!(time instanceof Date)) {
+    dateTime = new Date(time)
+  } else {
+    dateTime = time
   }
-  const minutes = time.getUTCMinutes()
+  const minutes = dateTime.getUTCMinutes()
   const roundedMinutes = Math.floor(minutes / TIME_RESOLUTION) * TIME_RESOLUTION
 
   return (
-    (time.getUTCFullYear() * 100000000)
-    + ((time.getUTCMonth() + 1) * 1000000)
-    + (time.getUTCDate() * 10000)
-    + (time.getUTCHours() * 100)
+    (dateTime.getUTCFullYear() * 100000000)
+    + ((dateTime.getUTCMonth() + 1) * 1000000)
+    + (dateTime.getUTCDate() * 10000)
+    + (dateTime.getUTCHours() * 100)
     + roundedMinutes
   ).toString()
 }
+
