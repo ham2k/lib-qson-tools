@@ -36,6 +36,9 @@ export type CallInfo = {
   county?: string
   country?: string
 
+  exchange?: string
+  sent?: string
+
   guess?: CallInfo
 }
 
