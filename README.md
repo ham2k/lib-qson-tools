@@ -1,25 +1,4 @@
-# lib-qson-tools
+# This repository has been moved
 
-A TypeScript library with tools to help manage data in QSON: A standard notation for Amateur Radio QSO Information
+It now located at https://github.com/ham2k/ham-js-libs/tree/main/packages/lib-qson-tools
 
-## Development
-
-### Building
-
-```bash
-npm run build
-```
-
-### Testing
-
-```bash
-npm test
-```
-
-## Usage
-
-This library provides TypeScript type definitions and utilities for working with QSON data, including:
-
-- `QSON` and `CallInfo` TypeScript types
-- `qsoKey()` - Generate unique keys for QSOs
-- `roundedTimeKey()` - Generate time-rounded keys for matching QSOs
